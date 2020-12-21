@@ -3,8 +3,8 @@ class Sling {
       var options = {
         bodyA: bodyA,
         pointB: pointB,
-        stiffness: 1,
-        angularStiffness: 1,
+        stiffness: 2,
+        angularStiffness:2,
         length: 400
       };
       this.pointB = pointB;
